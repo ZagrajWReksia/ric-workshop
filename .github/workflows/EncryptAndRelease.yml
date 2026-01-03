@@ -1,11 +1,8 @@
 name: EncryptAndRelease
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
 jobs:
   Release:
-    if: contains(github.event.head_commit.message, '#minor') || contains(github.event.head_commit.message, '#major') || contains(github.event.head_commit.message, '#patch')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
