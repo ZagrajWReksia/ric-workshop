@@ -26,9 +26,7 @@ A place created to make working on Rex and Wizards game modding/fixing easier.
 * Fixed a bug that caused an asleep character to become awake when hit with the Changing Into A Frog spell
 * Fixed player position becoming unaligned after elapsing of the Globe Of Pudding spell
 * Fixed spells being cast by enemies even after hitting them with a spell
-* Added character-sepcific frog graphics
 * Added visual effects on players hit with spells
-* Allowed enemies to cast Changing into a frog and Circles and Whirls spells
 #### Magic
 * Restored effects of the Fly Plague, Changing Into A Frog and Circles And Whirls spells on Reksio.
 * Prevented possible infinite loop from happening if an opponent fails in drawing a spell
