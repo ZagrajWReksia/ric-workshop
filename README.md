@@ -1,11 +1,11 @@
-# ric-workshop [![GitHub release (latest by date)](https://img.shields.io/github/v/release/roostarreksio/ric-workshop?color=orange&style=flat-square)](https://github.com/roostarreksio/ric-workshop/releases/latest)
+# ric-workshop [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ZagrajWReksia/ric-workshop?color=orange&style=flat-square)](https://github.com/ZagrajWReksia/ric-workshop/releases/latest)
 
-A place created to make working on Rex and Wizards game modding/fixing easier.
+Fork of ric-workshop focused on just fixing the game without arbitrary changes.
 
 ---
 
 ### How to install:
-* Download the latest release ZIP [here](https://github.com/roostarreksio/ric-workshop/releases/latest) (*-dev* version has decoded files) 
+* Download the latest release ZIP [here](https://github.com/ZagrajWReksia/ric-workshop/releases/latest)
 * Copy contents of the archive to your game's installation folder (e.g. *C:/Program Files/AidemMedia/Reksio i Czarodzieje*)
 
 ---
@@ -36,12 +36,3 @@ A place created to make working on Rex and Wizards game modding/fixing easier.
 * Fixed a bug that prohibited Smokret's talking animation from playing
 #### Other
 * Fixed some logic problems when Kretes is not rescued, fixed the possibility to fly to Piklibia without him (unless very persistent)
----
-### Mods (optional):
-* DrobLoader
-
----
-CNV encoder/decoder [AMkd](https://github.com/Dove6/AMkd) by Dove6 is used to create releases.
-
-
-![](https://i.imgur.com/d2DkcNd.png)
