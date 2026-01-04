@@ -37,3 +37,6 @@ Fork of ric-workshop focused on just fixing the game without arbitrary changes.
 #### Other
 * Fixed some logic problems when Kretes is not rescued, fixed the possibility to fly to Piklibia without him (unless very persistent)
 * Fixed a progression hardlock where leaving the mountain without becoming an inspector prevented further progress. The mountain can now be re-entered until it becomes frozen.
+* Fixed Guldryk animation not playing after returning key
+* Remove sigh from the beginning of kogut audio
+* Fixed Kretes' dialogue being interrupted when going to Cat location
