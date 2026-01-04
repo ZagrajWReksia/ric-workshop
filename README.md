@@ -38,6 +38,7 @@ A place created to make working on Rex and Wizards game modding/fixing easier.
 * Fixed a bug that prohibited Smokret's talking animation from playing
 #### Other
 * Fixed some logic problems when Kretes is not rescued, fixed the possibility to fly to Piklibia without him (unless very persistent)
+* Fixed a progression hardlock where leaving the mountain without becoming an inspector prevented further progress. The mountain can now be re-entered until it becomes frozen.
 ---
 ### Mods (optional):
 * DrobLoader
