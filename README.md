@@ -40,3 +40,4 @@ Fork of ric-workshop focused on just fixing the game without arbitrary changes.
 * Fixed Guldryk animation not playing after returning key
 * Remove sigh from the beginning of kogut audio
 * Fixed Kretes' dialogue being interrupted when going to Cat location
+* Fixed an issue where exiting the labyrinth to Kapelusznik did not work after loading a save file created while inside the labyrinth.
