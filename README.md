@@ -30,6 +30,7 @@ Fork of ric-workshop focused on just fixing the game without arbitrary changes.
 #### Magic
 * Restored effects of the Fly Plague, Changing Into A Frog and Circles And Whirls spells on Reksio.
 * Prevented possible infinite loop from happening if an opponent fails in drawing a spell
+* Fixed EXP draining when repeating spells during learning
 #### Shooter
 * Fixed a bug that caused the game to crash when losing the fight after loading a save-state made during the fight  
 #### Smokret
